@@ -2,7 +2,7 @@
 - 👀 I’m interested in casual programming and want to try out ethical hacking
 - 🌱 I’m currently learning Ruby
 - 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 How to reach me [adithyanagraj2000@gmail]
+- 📫 How to reach me [Sloth382@gmail]
 
 <!---
 Sloth1490/Sloth1490 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
