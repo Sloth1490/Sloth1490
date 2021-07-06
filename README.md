@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sloth1490
-- 👀 I’m interested in casual programming
+- 👀 I’m interested in casual programming and want to try out ethical hacking
 - 🌱 I’m currently learning Ruby
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me [adithyanagraj2000@gmail]
